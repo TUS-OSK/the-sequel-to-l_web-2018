@@ -7,5 +7,5 @@ Node.jsでいろいろやります
 利用人口の多い[Express](https://expressjs.com/)と、かっこいい[Koa](https://koajs.com/)をさわってサーバーサイドアレルギーを克服します
 
 ## クライアントサイド
-ナウいWeb開発ではクライアントもNodeでビルドしてコードを生成するので、これもマスターしましょう  
-利用人口の多い[Webpack](https://webpack.js.org/)と、簡単で速い[Parcel](https://parceljs.org/)をさわります
+ナウいWeb開発ではクライアントもNodeでビルドしてコードを生成するので、これもマスターしましょう  
+利用人口の多い[Webpack](https://webpack.js.org/)と、簡単で速い[Parcel](https://parceljs.org/)をさわります
