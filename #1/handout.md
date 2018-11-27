@@ -144,7 +144,7 @@ public/ ディレクトリを作って、その中に index.html と main.js を
 </body>
 </html>
 ```
-5行目にaxiosというライブラリを仕込んでいます
+5行目に[axios](https://github.com/axios/axios)というライブラリを仕込んでいます
 ```js
 // main.js
 document.querySelector("#send").addEventListener("click", event => {
