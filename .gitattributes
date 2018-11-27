@@ -1,2 +1,2 @@
-yarn.lock --diff
-package-lock.json --diff
+yarn.lock -diff
+package-lock.json -diff
