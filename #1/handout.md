@@ -1,4 +1,5 @@
 # #1: Introduction
+[Google Slides](https://docs.google.com/presentation/d/1M-3jyZwTDjjaM7M8Mi1DdN_nCIkjyQrs7FuiP6cor6k/edit?usp=sharing)
 ### おしながき
 1. Node.jsのインストール
 2. npm (yarn) の使い方
